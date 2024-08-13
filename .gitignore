@@ -1,0 +1,8 @@
+bin/
+obj/
+.vscode/
+*.http
+appsettings.json
+appsettings.*.json
+Migrations/
+request/
