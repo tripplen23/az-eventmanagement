@@ -47,7 +47,7 @@ The Event Management System is a web application built with ASP.NET Core, Entity
 
 ## Azure Function App
 
-- Public repository: [https://github.com/tripplen23/EventManagementFunctions]()
+- Public repository: [https://github.com/tripplen23/EventManagementFunctions](https://github.com/tripplen23/EventManagementFunctions)
 - Registering for event successfully
   ![function](image/README/function.png)
 
